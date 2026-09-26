@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.log
+*.tlog/
+*.lastbuildstate
+*.aps
+
+# Inno Setup output
+installer/
+
+# game save files
+*.sav
